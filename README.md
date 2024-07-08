@@ -6,13 +6,14 @@ Welcome to my game developer portfolio! Here, you will find a collection of my p
 
 Hi, I'm **[Your Name]**, a passionate game developer with a focus on creating immersive and engaging gaming experiences. I specialize in environmental storytelling, level design, and game mechanics.
 
-![Profile Picture](https://via.placeholder.com/150)  <!-- Replace with your profile picture -->
+![Profile Picture]([profile-pic](https://github.com/Kiru671/Portfolio/assets/112775690/7e6db4ad-726a-42d9-b13a-06e6536e057e)
+)
 
 ## 🚀 Skills
 
-- **Programming Languages**: C#, Python, JavaScript
+- **Programming Languages**: C#, Python.
 - **Game Engines**: Unity, Unreal Engine
-- **Tools and Technologies**: Git, Blender, Photoshop
+- **Tools and Technologies**: Git, Unity, Unreal Engine, Photoshop, Premiere Pro
 - **Other Skills**: VR Development, Object-Oriented Programming (OOP)
 
 ## 📂 Projects
