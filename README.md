@@ -83,14 +83,9 @@ Hi, I'm **[Kerem]**, a passionate game developer with a focus on creating immers
 
 ## 📫 Contact
 
-- **Email**: [keremyildiz176@gmail.com]
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/kiruyildiz/)]
-- **Portfolio Website**: [Your Portfolio Website]
+- **Email**: keremyildiz176@gmail.com
+- **LinkedIn**: [[My LinkedIn Profile](https://www.linkedin.com/in/kiruyildiz/)]
 
-## 🙏 Acknowledgements
-
-I would like to thank [anyone you'd like to acknowledge] for their support and contributions.
-
----
+## 🙏 Thanks
 
 Thank you for visiting my portfolio! Feel free to explore my projects and reach out if you have any questions or opportunities.
