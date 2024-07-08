@@ -72,21 +72,19 @@ Hi, I'm **[Kerem]**, a passionate game developer with a focus on creating immers
 
 ## 💼 Experience
 
-- **Game Designer** at **[Company Name]** (Dates of Employment)
-  - [Brief description of your role and achievements]
-
-- **Intern** at **[Company Name]** (Dates of Employment)
-  - [Brief description of your role and achievements]
+- **Intern** at **[Bucked Games]** (03.2023 - 06.2023)
+  - [Designed the core loop of a now released mobile game, "Current Chase"]
+  - [Workes as a QA tester on another released project, "Ozmo's Adventure Land".]
+  
 
 ## 🎓 Education
 
-- **Bachelor's Degree** in **Digital Game Design** from **[University Name]** (Year of Graduation)
-- **Bachelor's Degree** in **Computer Education and Instructional Technologies** from **[University Name]** (Year of Graduation)
+- **Bachelor's Degree** in **Digital Game Design** from **[Bahcesehir University]** (2024)
 
 ## 📫 Contact
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [keremyildiz176@gmail.com]
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/kiruyildiz/)]
 - **Portfolio Website**: [Your Portfolio Website]
 
 ## 🙏 Acknowledgements
