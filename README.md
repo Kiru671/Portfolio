@@ -38,6 +38,7 @@ Hi, I'm **[Your Name]**, a passionate game developer with a focus on creating im
 **Description**: Project EFB was an unreleased group project where I handled the movement logic using a state machine design pattern. The game was based around traversal with a glide/flight mechanic, and I managed all collision logic.
 
 **Scripts**: [OOP Work and Movement Logic](https://github.com/Kiru671/EFB_Scripts)
+![Uploading Sugey_Flying_2-min.gif…]()
 
 **Gameplay Video**: [![Watch the video](https://img.youtube.com/vi/qzQkWC-rh-Q/default.jpg)](https://youtu.be/qzQkWC-rh-Q?si=um-Q7rwCQgm69dyF&t=208)
 
