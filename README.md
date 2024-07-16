@@ -1,6 +1,6 @@
-# 🎮 Game Developer Portfolio
+# 🎮 Game Developer Portfolio (WIP)
 
-Welcome to my game developer portfolio! Here, you will find a collection of my projects, skills, and experiences in game development.
+Welcome to my game developer portfolio! Although it is still a work in progress, you will still find a collection of my projects, skills, and experiences in game development.
 
 ## About Me
 
