@@ -73,8 +73,8 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 ## 💼 Experience
 
 - **Intern** at **[Bucked Games]** (03.2023 - 06.2023)
-  - [Designed the core loop of a now released mobile game, "Current Chase"]
-  - [Workes as a QA tester on another released project, "Ozmo's Adventure Land".]
+  - Designed the core loop of a now released mobile game, "Current Chase"
+  - Workes as a QA tester on another released project, "Ozmo's Adventure Land".
   
 
 ## 🎓 Education
