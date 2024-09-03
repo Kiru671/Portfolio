@@ -48,7 +48,7 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 
 **Legacy Version**: [Different Gliding Approach](https://www.youtube.com/watch?v=sda4-PCvpYM)
 
-**Conclusion**: This project resulted in a flight mechanic that feels intuitive, with a movement economy that engages the player. It honed my skills in creating state machine patterns and handling complex mechanics.
+**Conclusion**: This project resulted in a flight mechanic that feels intuitive and nice to control. It honed my skills in creating state machine patterns and handling complex mechanics.
 
 ### Project 3: Apocalypse Hauler (VR)
 
