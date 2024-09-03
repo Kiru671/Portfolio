@@ -50,9 +50,18 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 
 **Conclusion**: This project resulted in a flight mechanic that feels intuitive and nice to control. It honed my skills in creating state machine patterns and handling complex mechanics.
 
-### Project 3: Apocalypse Hauler (VR)
+### Project 3: Hazard Hunt
 
-![Apocalypse Hauler](https://via.placeholder.com/400x200)  <!-- Replace with your image -->
+![Hazard Hunt](https://github.com/user-attachments/assets/9af755d5-ed35-4286-a562-73ae394f6850)
+
+
+**Description**: This game was developed during a game jam funded by the US Embassy to raise awareness about earthquakes. Our team won first place and received support for further development. I worked on the modular level selection system, breakable objects, audio, and helped with the earthquake simulation.
+
+**Itch.io Link**: [Hazard Hunt](https://kiru176.itch.io/hazard-hunt)
+
+**Conclusion**: This project allowed me to work on a socially impactful game while improving my skills in modular level design and simulation mechanics.
+
+### Project 4: Apocalypse Hauler (VR)
 
 **Description**: This VR simulation experience was a team effort to simulate a post-apocalyptic scenario where players use a modified excavator to gather resources and help survivors. I worked on the movement mechanics, controls, and a quest system utilizing scriptable objects.
 
@@ -62,26 +71,18 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 
 **Conclusion**: This project enhanced my understanding of VR development and Object-Oriented Programming, especially with the quest system.
 
-### Project 4: Hazard Hunt
-
-![Hazard Hunt](https://via.placeholder.com/400x200)  <!-- Replace with your image -->
-
-**Description**: This game was developed during a game jam funded by the US Embassy to raise awareness about earthquakes. Our team won first place and received support for further development. I worked on the modular level selection system, breakable objects, audio, and helped with the earthquake simulation.
-
-**Itch.io Link**: [Hazard Hunt](https://kiru176.itch.io/hazard-hunt)
-
-**Conclusion**: This project allowed me to work on a socially impactful game while improving my skills in modular level design and simulation mechanics.
 
 ## 💼 Experience
 
 - **Intern** at **[Bucked Games]** (03.2023 - 06.2023)
   - Designed the core loop of a now released mobile game, "Current Chase"
-  - Workes as a QA tester on another released project, "Ozmo's Adventure Land".
+  - Worked as a QA tester on another released project, "Ozmo's Adventure Land".
+- **Intern** at **[De Marke Gaming]** (07.2024) (Ongoing)
   
-
 ## 🎓 Education
 
 - **Bachelor's Degree** in **Digital Game Design** from **[Bahcesehir University]** (2024)
+- First year in Computer Programming in [**Anadolu University**] (2024)
 
 ## 📫 Contact
 
