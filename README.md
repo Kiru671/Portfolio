@@ -20,7 +20,8 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 
 ### Project 1: Highway Run
 
-![Highway Run](https://via.placeholder.com/400x200)  <!-- Replace with your image -->
+![Highway Run](https://github.com/user-attachments/assets/f584fe93-533d-4a31-94fa-990ac041a92b)
+
 
 **Description**: This was a solo project completed in under a month using visual scripting in UE4. It's an endless runner game where the goal is to never slow down. I also created the music for the game.
 
