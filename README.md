@@ -20,7 +20,7 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 ### Ozmo's Adventure Land
 ![ozmo](https://github.com/user-attachments/assets/b7b88f35-236d-41ea-9ded-ca50f5f2248a)
 
-**Description**: First released project I partook in. Helped in various roles, mainly QA and playtesting. Later aided with SFX Design and music.
+**Description**: First released project I partook in as an intern at **Bucked Games**. Helped in various roles, mainly QA and playtesting. Later aided with SFX design and music.
 
 **SFX & Music**: [Ozmo_SFX](https://github.com/Kiru671/Ozmo_SFX)
 
@@ -28,9 +28,20 @@ It's me right there!
 ![Credit](https://github.com/user-attachments/assets/02ca0bc7-29cb-4f4f-94c8-b9695b7e81eb)
 
 
-
 **Website Link:** [Ozmo's Adventure Land Website](https://www.ozmoadventureland.com/)
+
 **Playstore Link:** [Ozmo's Adventure Land Google Playstore](https://play.google.com/store/apps/details?id=com.Solen.OzmoAdventureLandMain&hl=en)
+
+### Current Chase
+
+![cs](https://github.com/user-attachments/assets/68e49cf6-d41a-4eca-a3da-ac53ee0dc8cc)
+
+
+**Description**: Designed core game loop and worked on the touch controls. Another project I worked on as an intern at **Bucked Games**.
+
+
+**Appstore Link:** [Current Chase Appstore Link](https://apps.apple.com/tr/app/current-chase/id6467595304?platform=iphone)
+
 
 
 
