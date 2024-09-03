@@ -7,7 +7,7 @@ Welcome to my game developer portfolio! Although it is still a work in progress,
 Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersive and engaging gaming experiences. I specialize in game development.
 
 
- <img src="(https://github.com/user-attachments/assets/4663fefd-c14c-4a16-9e6d-b01de8417d76)" alt="Profile Picture" width="200" height="200">
+ <img src="https://ibb.co/gM194NQ.png" alt="Profile Picture" width="200" height="200">
 
 ## 🚀 Skills
 
