@@ -44,7 +44,7 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 ![Sugey_Flying_2-min](https://github.com/Kiru671/Portfolio/assets/112775690/a0dc3eba-0129-4554-9b1d-14e9ab707a66)
 
 
-**Gameplay Video**: [![Watch the video](https://img.youtube.com/vi/qzQkWC-rh-Q/default.jpg)](https://youtu.be/qzQkWC-rh-Q?si=um-Q7rwCQgm69dyF&t=208)
+**Video**: [![Watch the video](https://img.youtube.com/vi/qzQkWC-rh-Q/default.jpg)](https://youtu.be/qzQkWC-rh-Q?si=um-Q7rwCQgm69dyF&t=208)
 
 **Legacy Version**: [Different Gliding Approach](https://www.youtube.com/watch?v=sda4-PCvpYM)
 
@@ -56,7 +56,7 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 
 **Description**: This VR simulation experience was a team effort to simulate a post-apocalyptic scenario where players use a modified excavator to gather resources and help survivors. I worked on the movement mechanics, controls, and a quest system utilizing scriptable objects.
 
-**Gameplay Video**: [![Watch the video](https://img.youtube.com/vi/M6d6syOWEkg/default.jpg)](https://youtu.be/M6d6syOWEkg)
+**Video**: [![Watch the video](https://img.youtube.com/vi/M6d6syOWEkg/default.jpg)](https://youtu.be/M6d6syOWEkg)
 
 **Scripts**: [Relevant Scripts](https://github.com/Kiru671/Apocalypse_Hauler_Scripts)
 
