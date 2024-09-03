@@ -8,7 +8,6 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 
 
  <img src="https://github.com/user-attachments/assets/87880a47-d2ec-4f96-9314-363b9d272103" alt="Profile Picture" width="200" height="200">
-![profile-pic](https://github.com/user-attachments/assets/87880a47-d2ec-4f96-9314-363b9d272103)
 
 ## 🚀 Skills
 
