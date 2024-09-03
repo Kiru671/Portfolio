@@ -4,7 +4,8 @@ Welcome to my game developer portfolio! Down below, you will find some of the pr
 
 ## About Me
 
-Hi, I'm **Kerem**. I believe games are the **perfect** medium. Each one full of surprises and potential when you start playing. Like a book waiting to be read, only ***much*** more immersive with visuals and interactivity. I also love their painstaking creation process. I love finding solutions to how a certain mechanic or system would be added to a game and how I could build upon such things. And I want to leave my mark on projects I'll be proud of ***and*** want to play.
+Hi, I'm **Kerem**. I believe games are the **perfect** medium. Like a book waiting to be read, only ***much*** more immersive with visuals and interactivity. I also love their painstaking creation process. I love finding solutions to how a certain mechanic or system would be added to a game and how I could build upon such things. 
+And I want to leave my mark on projects I'll be proud of ***and*** want to play.
 
 
  <img src="https://github.com/user-attachments/assets/87880a47-d2ec-4f96-9314-363b9d272103" alt="Profile Picture" width="200" height="200">
