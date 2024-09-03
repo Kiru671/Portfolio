@@ -29,8 +29,8 @@ It's me right there!
 
 
 
-**Website Link:** [Ozmo's Adventure Land Website](https://www.ozmoadventureland.com/)]
-**Playstore Link:** [Ozmo's Adventure Land Google Playstore](https://play.google.com/store/apps/details?id=com.Solen.OzmoAdventureLandMain&hl=en)]
+**Website Link:** [Ozmo's Adventure Land Website](https://www.ozmoadventureland.com/)
+**Playstore Link:** [Ozmo's Adventure Land Google Playstore](https://play.google.com/store/apps/details?id=com.Solen.OzmoAdventureLandMain&hl=en)
 
 
 
