@@ -36,6 +36,9 @@ It's me right there!
 
 ![cs](https://github.com/user-attachments/assets/68e49cf6-d41a-4eca-a3da-ac53ee0dc8cc)
 
+![current_chase](https://github.com/user-attachments/assets/4c8c1a64-4031-4cc7-bed0-2fd90b516eea)
+
+
 
 **Description**: Designed core game loop and worked on the touch controls. Another project I worked on as an intern at **Bucked Games**.
 
