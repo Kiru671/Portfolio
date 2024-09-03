@@ -35,7 +35,8 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 
 ### Project 2: Project EFB
 
-![Project EFB](https://via.placeholder.com/400x200)  <!-- Replace with your image -->
+![Project EFB](https://github.com/user-attachments/assets/1746bb70-e1dc-4ff8-9736-4c6baaf3596a)
+
 
 **Description**: Project EFB was an unreleased group project where I handled the movement logic using a state machine design pattern. The game was based around traversal with a glide/flight mechanic, and I managed all collision logic.
 
