@@ -16,7 +16,24 @@ Hi, I'm **Kerem**, a passionate game developer with a focus on creating immersiv
 - **Tools and Technologies**: Git, Unity, Unreal Engine, Photoshop, Premiere Pro
 - **Other Skills**: VR Development, Object-Oriented Programming (OOP)
 
-## 📂 Projects
+## 📂 Professional Projects
+### Ozmo's Adventure Land
+![ozmo](https://github.com/user-attachments/assets/b7b88f35-236d-41ea-9ded-ca50f5f2248a)
+
+**Description**: First released project I partook in. Helped in various roles, mainly QA and playtesting. Later aided with SFX Design and music.
+
+It's me right there!
+![Credit](https://github.com/user-attachments/assets/02ca0bc7-29cb-4f4f-94c8-b9695b7e81eb)
+
+https://play.google.com/store/apps/details?id=com.Solen.OzmoAdventureLandMain&hl=en
+
+
+**SFX & Music**: [OOP Work and Movement Logic](https://github.com/Kiru671/Ozmo_SFX)
+**Website Link:** [Ozmo's Adventure Land](https://www.ozmoadventureland.com/)]
+
+
+
+## 📂 School Projects
 
 ### Project 1: Highway Run
 
