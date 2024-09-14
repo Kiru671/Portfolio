@@ -1,4 +1,4 @@
-# 🎮 Game Developer Portfolio
+# 🎮 My Game Dev Portfolio
 
 Welcome to my game developer portfolio! Down below, you will find some of the projects I partook in and made on my own in the last 4 years.
 
