@@ -6,7 +6,7 @@ Welcome to my game developer portfolio! Down below, you will find some of the pr
 
 Hi, I'm **Kerem**. I recently graduated from my four-year Game Design major, but I'm currently studying Computer Programming.
 
- I believe games are the **perfect** medium. Like a book waiting to be read, only ***much*** more immersive with visuals and interactivity. I also love their painstaking creation process. I love finding solutions to how a certain mechanic or system would be implemented to a game and how I could build upon such things. 
+ I believe games are the **perfect** medium. ***much*** more immersive than any with gorgeous visuals and interactivity. I also love their painstaking creation process. I love finding solutions to how a certain mechanic or system would be implemented to a game and how I could build upon such things. 
 
 And I want to leave my mark on projects I'll be proud of ***and*** want to play.
 
