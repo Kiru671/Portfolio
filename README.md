@@ -113,7 +113,7 @@ It's me right there!
 - **Intern** at **Bucked Games** (03.2023 - 06.2023)
   - Designed the core loop of a now released mobile game, "Current Chase"
   - Worked as a QA tester on another released project, "Ozmo's Adventure Land".
-- **Intern** at **De Marke Gaming** (07.2024) (Ongoing)
+- **Intern** at **De Marke Gaming** (07.2024) (09.2024)
   
 ## 🎓 Education
 
