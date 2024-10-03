@@ -123,7 +123,7 @@ It's me right there!
 ## 📫 Contact
 
 - **Email**: keremyildiz176@gmail.com
-- **LinkedIn**: [My LinkedIn Profile(https://www.linkedin.com/in/kiruyildiz/)]
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/kiruyildiz/)
 
 ## 🙏 Thanks
 
