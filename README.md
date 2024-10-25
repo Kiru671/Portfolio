@@ -50,6 +50,9 @@ It's me right there!
 **Appstore Link:** [Current Chase Appstore Link](https://apps.apple.com/tr/app/current-chase/id6467595304?platform=iphone)
 
 
+## 📂 Upcoming
+We have been hard at work on a project that is putting all we've learned up to a test. Here's a snippet from our soon-to-be prototype. I trust you can keep a secret ;)
+![early_enemies](https://github.com/user-attachments/assets/490202ae-229d-449d-882c-866abf445195)
 
 
 ## 📂 School Projects
