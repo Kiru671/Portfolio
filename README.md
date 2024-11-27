@@ -109,7 +109,7 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 ### Strange Presence
   
   - **Description**: A bootcamp project focusing on a weighted randomized and expandable upgrade system, done in under 2 weeks. 
-  - **Video**: [![Watch the video](https://youtu.be/nJcriZbDFSc)]([https://youtu.be/M6d6syOWEkg](https://youtu.be/nJcriZbDFSc))
+  - **Video**: [![Watch the video]([https://youtu.be/M6d6syOWEkg](https://youtu.be/nJcriZbDFSc)
   - **Repo**: [Strange Presecne Repo](https://github.com/Kiru671/Strange-Presence)
 
 <details>
