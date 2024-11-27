@@ -12,6 +12,19 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 
 <img src="https://github.com/user-attachments/assets/87880a47-d2ec-4f96-9314-363b9d272103" alt="Profile Picture" width="200" height="200">
 
+---
+
+## 🔗 Links
+
+- [About Me](#about-me)
+- [Skills](#-skills)
+- [Projects](#-projects)
+- [Contact](#-contact)
+- [Experience](#-experience)
+- [Education](#-education)
+
+---
+
 ## 🚀 Skills
 
 - **Programming Languages**: C#, Python
@@ -88,17 +101,6 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 - **Scripts**: [Relevant Scripts](https://github.com/Kiru671/Apocalypse_Hauler_Scripts)
 
 </details>
-
----
-
-## 🔗 Links
-
-- [About Me](#about-me)
-- [Skills](#-skills)
-- [Projects](#-projects)
-- [Contact](#-contact)
-- [Experience](#-experience)
-- [Education](#-education)
 
 ---
 
