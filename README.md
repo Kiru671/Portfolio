@@ -96,6 +96,7 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 ---
 
 ### Apocalypse Hauler (VR)
+
 - **Description**: A VR experience simulating a post-apocalyptic scenario. I worked on movement mechanics, controls, and a quest system utilizing ScriptableObjects.
 - **Video**: [![Watch the video](https://img.youtube.com/vi/M6d6syOWEkg/default.jpg)](https://youtu.be/M6d6syOWEkg)
 - **Scripts**: [Relevant Scripts](https://github.com/Kiru671/Apocalypse_Hauler_Scripts)
@@ -104,7 +105,9 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 
 <details>
 <summary><strong>Other Projects</strong></summary>
+  
 ### Strange Presence
+  
   - **Description**: A bootcamp project focusing on a weighted randomized and expandable upgrade system, done in under 2 weeks. 
   - **Video**: [![Watch the video](https://youtu.be/nJcriZbDFSc)]([https://youtu.be/M6d6syOWEkg](https://youtu.be/nJcriZbDFSc))
   - **Repo**: [Strange Presecne Repo](https://github.com/Kiru671/Strange-Presence)
