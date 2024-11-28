@@ -108,7 +108,7 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
   
 ### Strange Presence
 
-  ![Strange-Presence](https://github.com/user-attachments/assets/cc8b9648-f7b4-4b98-a18b-5424e56ca207)
+  ![Strange-Presence](https://github.com/user-attachments/assets/1666faed-6ca5-46b1-a38e-27d75c8858a2)
 
   - **Description**: A bootcamp project focusing on a weighted randomized and expandable upgrade system, done in under 2 weeks. 
   - **Video**: [Watch the video](https://youtu.be/nJcriZbDFSc)
