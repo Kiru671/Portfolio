@@ -114,7 +114,6 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
   - **Video**: [Watch the video](https://youtu.be/nJcriZbDFSc)
   - **Repo**: [Strange Presence Repo](https://github.com/Kiru671/Strange-Presence)
 
-<details>
 ---
 
 ## 💼 Experience
