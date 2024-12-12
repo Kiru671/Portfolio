@@ -1,8 +1,6 @@
-# 🎮 Hello!
+## About Me 
 
-Welcome to my game developer portfolio! Below, you will find some of the projects I've participated in and created over the last 4 years.
 
-## About Me
 
 Hi, I'm **Kerem**. I recently graduated with a major in Game Design, and I'm currently studying Computer Programming.
 
@@ -10,7 +8,7 @@ I believe games are the **perfect** medium—***much*** more immersive than any 
 
 I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 
-<img src="https://github.com/user-attachments/assets/87880a47-d2ec-4f96-9314-363b9d272103" alt="Profile Picture" width="200" height="200">
+
 
 ---
 
@@ -60,6 +58,16 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 <details>
 <summary><strong>Upcoming Projects</strong></summary>
 
+### Strange Presence
+
+  ![Strange-Presence](https://github.com/user-attachments/assets/1666faed-6ca5-46b1-a38e-27d75c8858a2)
+
+  - **Description**: A bootcamp project focusing on a weighted randomized and expandable upgrade system, initially created in under 2 weeks. 
+  - **Video**: [Watch the video](https://youtu.be/nJcriZbDFSc)
+  - **Repo**: [Strange Presence Repo](https://github.com/Kiru671/Strange-Presence)
+
+
+
 ![early_enemies](https://github.com/user-attachments/assets/490202ae-229d-449d-882c-866abf445195)
 
 - **Description**: We're hard at work on a project putting all we've learned to the test. Stay tuned for more!
@@ -103,18 +111,8 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 
 </details>
 
-<details>
-<summary><strong>Other Projects</strong></summary>
   
-### Strange Presence
 
-  ![Strange-Presence](https://github.com/user-attachments/assets/1666faed-6ca5-46b1-a38e-27d75c8858a2)
-
-  - **Description**: A bootcamp project focusing on a weighted randomized and expandable upgrade system, done in under 2 weeks. 
-  - **Video**: [Watch the video](https://youtu.be/nJcriZbDFSc)
-  - **Repo**: [Strange Presence Repo](https://github.com/Kiru671/Strange-Presence)
-
-</details>
 
 ---
 
