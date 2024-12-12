@@ -27,10 +27,10 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 
 ## 🚀 Skills
 
-- **Programming Languages**: C#, Python
+- **Programming Languages**: C#, Lua, Python
 - **Game Engines**: Unity, Unreal Engine
 - **Tools and Technologies**: Git, Unity, Unreal Engine, Photoshop, Premiere Pro
-- **Other Skills**: VR Development, Object-Oriented Programming (OOP)
+- **Other Skills**: Object-Oriented Programming (OOP), VR Development.
 
 ---
 
