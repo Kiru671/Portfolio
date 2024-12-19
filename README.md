@@ -41,6 +41,7 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 ![ozmo](https://github.com/user-attachments/assets/b7b88f35-236d-41ea-9ded-ca50f5f2248a)
 
 - **Description**: First released project I partook in as an intern at **Bucked Games**. Helped in various roles, mainly QA and playtesting. Later aided with SFX design and music.
+- **What I Learned**: Focused on optimazation skills for mobile, learned and worked with different design patterns to aid in development.
 - **SFX & Music**: [Ozmo_SFX](https://github.com/Kiru671/Ozmo_SFX)
 - **Website Link**: [Ozmo's Adventure Land Website](https://www.ozmoadventureland.com/)
 - **Playstore Link**: [Ozmo's Adventure Land Google Playstore](https://play.google.com/store/apps/details?id=com.Solen.OzmoAdventureLandMain&hl=en)
@@ -62,7 +63,8 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 
   ![Strange-Presence](https://github.com/user-attachments/assets/1666faed-6ca5-46b1-a38e-27d75c8858a2)
 
-  - **Description**: A bootcamp project focusing on a weighted randomized and expandable upgrade system, initially created in under 2 weeks. 
+  - **Description**: A bootcamp project focusing on a weighted randomized and expandable upgrade system, initially created in under 2 weeks.
+  - **What I Learned**: Used event systems for highly decoupled code and used many different design patterns. Created an easily extensible, weighted dynamic Upgrade system.
   - **Video**: [Watch the video](https://youtu.be/nJcriZbDFSc)
   - **Repo**: [Strange Presence Repo](https://github.com/Kiru671/Strange-Presence)
 
@@ -81,6 +83,7 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 ![Highway Run](https://github.com/user-attachments/assets/f584fe93-533d-4a31-94fa-990ac041a92b)
 
 - **Description**: A solo endless runner project completed in under a month using UE4 visual scripting. I also created the music for the game.
+- **What I Learned**: Learned about class interactions and OOP basics.
 - **Gameplay Video**: [![Watch the video](https://img.youtube.com/vi/7tafZ5Es0os/default.jpg)](https://www.youtube.com/watch?v=7tafZ5Es0os)
 - **Itch.io Link**: [Highway Run](https://kiru176.itch.io/highway-run)
 
@@ -90,6 +93,7 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 ![Project EFB](https://github.com/user-attachments/assets/1746bb70-e1dc-4ff8-9736-4c6baaf3596a)
 
 - **Description**: A group project focusing on traversal with glide/flight mechanics. I managed the movement logic using a state machine design pattern.
+- **What I Learned**: I learned about and used the state machine pattern for the first time in the movement script to handle transition to between movement states such as ground movement, falling movement, gliding etc.
 - **Scripts**: [OOP Work and Movement Logic](https://github.com/Kiru671/EFB_Scripts)
 - **Video**: [![Watch the video](https://img.youtube.com/vi/qzQkWC-rh-Q/default.jpg)](https://youtu.be/qzQkWC-rh-Q?si=um-Q7rwCQgm69dyF&t=208)
 
@@ -99,6 +103,7 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 ![Hazard Hunt](https://github.com/user-attachments/assets/9af755d5-ed35-4286-a562-73ae394f6850)
 
 - **Description**: Developed during a game jam to raise earthquake awareness. I worked on the modular level system, breakable objects, and audio.
+- **What I Learned**: Used psuedorandom numbers and perlin noise to create a realistic earthquake simulation.
 - **Itch.io Link**: [Hazard Hunt](https://kiru176.itch.io/hazard-hunt)
 
 ---
@@ -106,6 +111,7 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 ### Apocalypse Hauler (VR)
 
 - **Description**: A VR experience simulating a post-apocalyptic scenario. I worked on movement mechanics, controls, and a quest system utilizing ScriptableObjects.
+- **What I Learned**: Utilized many different unity components I hadn't before like joints. Prepared vr controls for a crane, including vehicle movement.
 - **Video**: [![Watch the video](https://img.youtube.com/vi/M6d6syOWEkg/default.jpg)](https://youtu.be/M6d6syOWEkg)
 - **Scripts**: [Relevant Scripts](https://github.com/Kiru671/Apocalypse_Hauler_Scripts)
 
