@@ -136,8 +136,8 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
   - Worked as a QA tester on another released project, "Ozmo's Adventure Land".
 - **Working** at **Bucked Games** (01.2025 - 10.2025)
   - Refactored current NPC movement logic for released title "Ozmo's Adventure Land"
-  -
-  -
+  - Developed a centralized Audio system utilizing resource loading & source pooling to achieve visible performance increase.
+  - Also created music and sfx!
 
 ---
 
