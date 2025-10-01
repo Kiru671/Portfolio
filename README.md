@@ -50,8 +50,8 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 ![230x0w](https://github.com/user-attachments/assets/96ddaa1a-4a8c-4144-b7c5-d9ad8d71ea3b)
 
 - **What I Learned**: Worked on a dynamic SFX & Music & Ambiance system with resource loading and reduced RAM Allocations and visibly improved performance, along with many other things.
-- **SFX & Music**: [Ozmo_SFX](https://github.com/Kiru671/Mayanimo_SFX&Music)
-- **Website Link**: [Mayanimo Website]([https://www.ozmoadventureland.com/](https://mayanimo.com/))
+- **SFX & Music**: [Mayanimo_SFX](https://github.com/Kiru671/Mayanimo_SFX&Music)
+- **Website Link**: [Mayanimo Website]((https://mayanimo.com/))
 - **Appstore Link**: [Mayanimo Appstore Link](https://apps.apple.com/tr/app/mayanimo/id6751053413?l=tr)
 ---
 
