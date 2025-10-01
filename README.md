@@ -46,6 +46,13 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 - **Website Link**: [Ozmo's Adventure Land Website](https://www.ozmoadventureland.com/)
 - **Playstore Link**: [Ozmo's Adventure Land Google Playstore](https://play.google.com/store/apps/details?id=com.Solen.OzmoAdventureLandMain&hl=en)
 
+### Mayanimo
+![230x0w](https://github.com/user-attachments/assets/96ddaa1a-4a8c-4144-b7c5-d9ad8d71ea3b)
+
+- **What I Learned**: Worked on a dynamic SFX & Music & Ambiance system with resource loading and reduced RAM Allocations and visibly improved performance, along with many other things.
+- **SFX & Music**: [Ozmo_SFX](https://github.com/Kiru671/Mayanimo_SFX&Music)
+- **Website Link**: [Mayanimo Website]([https://www.ozmoadventureland.com/](https://mayanimo.com/))
+- **Appstore Link**: [Mayanimo Appstore Link](https://apps.apple.com/tr/app/mayanimo/id6751053413?l=tr)
 ---
 
 ### Current Chase
@@ -127,14 +134,17 @@ I aim to leave my mark on projects I'll be proud of ***and*** want to play.
 - **Intern** at **Bucked Games** (03.2023 - 06.2023)
   - Designed the core loop of a now-released mobile game, "Current Chase"
   - Worked as a QA tester on another released project, "Ozmo's Adventure Land".
-- **Intern** at **De Marke Gaming** (07.2024 - 09.2024)
+- **Working** at **Bucked Games** (01.2025 - 10.2025)
+  - Refactored current NPC movement logic for released title "Ozmo's Adventure Land"
+  -
+  -
 
 ---
 
 ## 🎓 Education
 
 - **Bachelor's Degree** in **Digital Game Design** from **Bahcesehir University** (2024)
-- First year in Computer Programming at **Anadolu University** (2024)
+- Second year in Computer Programming at **Anadolu University** (2024)
 
 ---
 
